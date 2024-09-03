@@ -21,7 +21,6 @@ The **News Homepage Website** is a web application designed to display the lates
 - **JavaScript**: Manages the interactive elements, including dynamic content loading.
 
 
-
 ## Installation
 
 To get started with the project, follow these steps:

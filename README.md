@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/News-Homepage.git
+    git clone https://github.com/abhishekgurjarin/News-Homepage.git
     ```
 
 2. **Open the project directory**:
@@ -49,7 +49,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the News Homepage Website project [here](https://abhishekboadgurjar.github.io/News-Homepage/).
+You can check out the live demo of the News Homepage Website project [here](https://abhishekgurjarin.github.io/News-Homepage/).
 ##Screenshots
 
 ![Screenshot 2024-09-01 002501](https://github.com/user-attachments/assets/caef19f3-88d3-468f-a7b6-9e0b56bc9a63)
@@ -65,5 +65,5 @@ This project was developed as part of my continuous learning journey in web deve
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
 
